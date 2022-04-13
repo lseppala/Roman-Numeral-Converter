@@ -2,6 +2,7 @@
 
 
 main.cpp            contains the logic and source code of the program
+
 IMG_0504.HEIC.jpeg  is a picture that contains all the notes and documentation I wrote
 
 
