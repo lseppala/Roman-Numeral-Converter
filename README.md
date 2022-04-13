@@ -7,7 +7,10 @@ main.cpp            Contains the logic and source code of the program
 
 makefile            Contains code to compile into an executable
 
-a.out               The Executeable
+a.out               The Executable
+
+
+
 
 
 
