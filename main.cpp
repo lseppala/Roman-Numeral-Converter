@@ -3,7 +3,7 @@
 #include <map>
 using namespace std;
 
-//converts the values
+// converts the values
 int Rom_Num_Converter(string input, map<char, int> values) {
     int sum = 0;
     //parses through the string input
