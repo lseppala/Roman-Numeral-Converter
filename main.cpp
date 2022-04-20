@@ -7,7 +7,7 @@ using namespace std;
 int Rom_Num_Converter(string input, map<char, int> values) {
     int sum = 0;
     //parses through the string input
-    for(int i = 0; i < input.size(); i++) {
+    for (int i = 0; i < input.size(); i++) {
 
         //checks that it can compare with next element
         //checks that current is larger
